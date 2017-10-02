@@ -1,0 +1,25 @@
+USER LOGIN:
+
+username	password
+venu		hasini1
+wwe		234
+venu		kdkdk
+sowjanya	secret
+sowjanya	vuppala
+sowjanya	secret
+sowjanya	secret
+sowjanya	secret
+sowjanya	secret
+souji		secret
+venu		gopal
+venu		gopal
+sowjanya	sravan
+rana		rana
+ramu		ramu
+hari		hari
+ny		ny
+hh		hh
+
+Admin:
+Username: venu
+Password:hasini
